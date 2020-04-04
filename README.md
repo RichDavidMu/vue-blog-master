@@ -50,19 +50,19 @@ npm run build --report
 ## 预览
 #### 主页
 
-![主页预览](static\主页预览.png)
+![主页预览](./static/主页预览.png)
 
 #### 文章详情页
 
-![文章详情页](static\文章详情页.png)
+![文章详情页](./static/文章详情页.png)
 #### 后台管理页
 
-![后台管理页](static\文章管理.png)
+![后台管理页](./static/文章管理.png)
 
 #### 文章编辑页
 
-![文章编辑页](static\文章编辑页面.png)
+![文章编辑页](./static/文章编辑页面.png)
 
 #### md实时预览
 
-![md实时预览](static\markdown实时预览.png)
+![md实时预览](./static/markdown实时预览.png)
