@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "highlight.js": "^9.18.1",
     "jsonwebtoken": "^8.5.1",
-    "marked": "^0.8.2",
+    "marked": "^4.0.10",
     "mongoose": "^5.9.6",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
